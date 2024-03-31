@@ -7,18 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		634B84CC2BB9E00300034DA7 /* GrayButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 634B84CB2BB9E00300034DA7 /* GrayButton.swift */; };
+		634B84CE2BB9E14C00034DA7 /* BigOrangeButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 634B84CD2BB9E14C00034DA7 /* BigOrangeButton.swift */; };
 		63AFA53D2BB71C53000A34E5 /* showchatApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63AFA53C2BB71C53000A34E5 /* showchatApp.swift */; };
-		63AFA53F2BB71C53000A34E5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63AFA53E2BB71C53000A34E5 /* ContentView.swift */; };
 		63AFA5412BB71C57000A34E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63AFA5402BB71C57000A34E5 /* Assets.xcassets */; };
 		63AFA5442BB71C57000A34E5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63AFA5432BB71C57000A34E5 /* Preview Assets.xcassets */; };
+		63AFA54E2BB7AB72000A34E5 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63AFA54D2BB7AB72000A34E5 /* Constants.swift */; };
+		63AFA56C2BB7CC1D000A34E5 /* Montserrat-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 63AFA5662BB7CC1D000A34E5 /* Montserrat-Medium.ttf */; };
+		63AFA56D2BB7CC1D000A34E5 /* Montserrat-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 63AFA5672BB7CC1D000A34E5 /* Montserrat-Light.ttf */; };
+		63AFA56F2BB7CC1D000A34E5 /* Montserrat-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 63AFA5692BB7CC1D000A34E5 /* Montserrat-Bold.ttf */; };
+		63AFA5702BB7CC1D000A34E5 /* Montserrat-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 63AFA56A2BB7CC1D000A34E5 /* Montserrat-SemiBold.ttf */; };
+		63AFA5712BB7CC1D000A34E5 /* Montserrat-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 63AFA56B2BB7CC1D000A34E5 /* Montserrat-Regular.ttf */; };
+		63AFA57A2BB7D0D5000A34E5 /* GoBackButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63AFA5792BB7D0D5000A34E5 /* GoBackButton.swift */; };
+		63AFA57C2BB7D192000A34E5 /* DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63AFA57B2BB7D192000A34E5 /* DashboardView.swift */; };
+		63AFA57E2BB7DBAF000A34E5 /* FollowersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63AFA57D2BB7DBAF000A34E5 /* FollowersView.swift */; };
+		63AFA5812BB7EA5B000A34E5 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63AFA5802BB7EA5B000A34E5 /* User.swift */; };
+		63AFA5832BB7EABD000A34E5 /* DummyData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63AFA5822BB7EABD000A34E5 /* DummyData.swift */; };
+		63AFA5852BB7EF77000A34E5 /* FollowBack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63AFA5842BB7EF77000A34E5 /* FollowBack.swift */; };
+		63AFA58B2BB86852000A34E5 /* Poster.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63AFA58A2BB86852000A34E5 /* Poster.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		634B84CB2BB9E00300034DA7 /* GrayButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrayButton.swift; sourceTree = "<group>"; };
+		634B84CD2BB9E14C00034DA7 /* BigOrangeButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BigOrangeButton.swift; sourceTree = "<group>"; };
 		63AFA5392BB71C53000A34E5 /* showchat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = showchat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		63AFA53C2BB71C53000A34E5 /* showchatApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = showchatApp.swift; sourceTree = "<group>"; };
-		63AFA53E2BB71C53000A34E5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		63AFA5402BB71C57000A34E5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		63AFA5432BB71C57000A34E5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		63AFA54D2BB7AB72000A34E5 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		63AFA5662BB7CC1D000A34E5 /* Montserrat-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Medium.ttf"; sourceTree = "<group>"; };
+		63AFA5672BB7CC1D000A34E5 /* Montserrat-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Light.ttf"; sourceTree = "<group>"; };
+		63AFA5692BB7CC1D000A34E5 /* Montserrat-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Bold.ttf"; sourceTree = "<group>"; };
+		63AFA56A2BB7CC1D000A34E5 /* Montserrat-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-SemiBold.ttf"; sourceTree = "<group>"; };
+		63AFA56B2BB7CC1D000A34E5 /* Montserrat-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Regular.ttf"; sourceTree = "<group>"; };
+		63AFA5722BB7CC9B000A34E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		63AFA5792BB7D0D5000A34E5 /* GoBackButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoBackButton.swift; sourceTree = "<group>"; };
+		63AFA57B2BB7D192000A34E5 /* DashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardView.swift; sourceTree = "<group>"; };
+		63AFA57D2BB7DBAF000A34E5 /* FollowersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowersView.swift; sourceTree = "<group>"; };
+		63AFA5802BB7EA5B000A34E5 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		63AFA5822BB7EABD000A34E5 /* DummyData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DummyData.swift; sourceTree = "<group>"; };
+		63AFA5842BB7EF77000A34E5 /* FollowBack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowBack.swift; sourceTree = "<group>"; };
+		63AFA58A2BB86852000A34E5 /* Poster.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Poster.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,9 +80,12 @@
 		63AFA53B2BB71C53000A34E5 /* showchat */ = {
 			isa = PBXGroup;
 			children = (
-				63AFA53C2BB71C53000A34E5 /* showchatApp.swift */,
-				63AFA53E2BB71C53000A34E5 /* ContentView.swift */,
-				63AFA5402BB71C57000A34E5 /* Assets.xcassets */,
+				63AFA57F2BB7EA4E000A34E5 /* Models */,
+				63AFA5722BB7CC9B000A34E5 /* Info.plist */,
+				63AFA5502BB7B9CA000A34E5 /* Core */,
+				63AFA5512BB7B9DB000A34E5 /* Views */,
+				63AFA54C2BB7AB67000A34E5 /* Utils */,
+				63AFA54A2BB7A2F1000A34E5 /* Resources */,
 				63AFA5422BB71C57000A34E5 /* Preview Content */,
 			);
 			path = showchat;
@@ -65,6 +97,74 @@
 				63AFA5432BB71C57000A34E5 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		63AFA54A2BB7A2F1000A34E5 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				63AFA5652BB7CC1D000A34E5 /* Fonts */,
+				63AFA5402BB71C57000A34E5 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		63AFA54C2BB7AB67000A34E5 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				63AFA54D2BB7AB72000A34E5 /* Constants.swift */,
+				63AFA5822BB7EABD000A34E5 /* DummyData.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		63AFA5502BB7B9CA000A34E5 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				63AFA53C2BB71C53000A34E5 /* showchatApp.swift */,
+			);
+			path = Core;
+			sourceTree = "<group>";
+		};
+		63AFA5512BB7B9DB000A34E5 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				63AFA5542BB7BA62000A34E5 /* Supporting */,
+				63AFA57B2BB7D192000A34E5 /* DashboardView.swift */,
+				63AFA57D2BB7DBAF000A34E5 /* FollowersView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		63AFA5542BB7BA62000A34E5 /* Supporting */ = {
+			isa = PBXGroup;
+			children = (
+				63AFA5792BB7D0D5000A34E5 /* GoBackButton.swift */,
+				63AFA5842BB7EF77000A34E5 /* FollowBack.swift */,
+				634B84CB2BB9E00300034DA7 /* GrayButton.swift */,
+				634B84CD2BB9E14C00034DA7 /* BigOrangeButton.swift */,
+			);
+			path = Supporting;
+			sourceTree = "<group>";
+		};
+		63AFA5652BB7CC1D000A34E5 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				63AFA5662BB7CC1D000A34E5 /* Montserrat-Medium.ttf */,
+				63AFA5672BB7CC1D000A34E5 /* Montserrat-Light.ttf */,
+				63AFA5692BB7CC1D000A34E5 /* Montserrat-Bold.ttf */,
+				63AFA56A2BB7CC1D000A34E5 /* Montserrat-SemiBold.ttf */,
+				63AFA56B2BB7CC1D000A34E5 /* Montserrat-Regular.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		63AFA57F2BB7EA4E000A34E5 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				63AFA5802BB7EA5B000A34E5 /* User.swift */,
+				63AFA58A2BB86852000A34E5 /* Poster.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,7 +225,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				63AFA5712BB7CC1D000A34E5 /* Montserrat-Regular.ttf in Resources */,
+				63AFA56D2BB7CC1D000A34E5 /* Montserrat-Light.ttf in Resources */,
+				63AFA56F2BB7CC1D000A34E5 /* Montserrat-Bold.ttf in Resources */,
+				63AFA5702BB7CC1D000A34E5 /* Montserrat-SemiBold.ttf in Resources */,
 				63AFA5442BB71C57000A34E5 /* Preview Assets.xcassets in Resources */,
+				63AFA56C2BB7CC1D000A34E5 /* Montserrat-Medium.ttf in Resources */,
 				63AFA5412BB71C57000A34E5 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +242,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63AFA53F2BB71C53000A34E5 /* ContentView.swift in Sources */,
 				63AFA53D2BB71C53000A34E5 /* showchatApp.swift in Sources */,
+				63AFA54E2BB7AB72000A34E5 /* Constants.swift in Sources */,
+				63AFA5852BB7EF77000A34E5 /* FollowBack.swift in Sources */,
+				63AFA58B2BB86852000A34E5 /* Poster.swift in Sources */,
+				63AFA57A2BB7D0D5000A34E5 /* GoBackButton.swift in Sources */,
+				63AFA57C2BB7D192000A34E5 /* DashboardView.swift in Sources */,
+				63AFA5812BB7EA5B000A34E5 /* User.swift in Sources */,
+				634B84CC2BB9E00300034DA7 /* GrayButton.swift in Sources */,
+				634B84CE2BB9E14C00034DA7 /* BigOrangeButton.swift in Sources */,
+				63AFA5832BB7EABD000A34E5 /* DummyData.swift in Sources */,
+				63AFA57E2BB7DBAF000A34E5 /* FollowersView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,7 +388,8 @@
 				DEVELOPMENT_ASSET_PATHS = "\"showchat/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_FILE = showchat/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -302,7 +417,8 @@
 				DEVELOPMENT_ASSET_PATHS = "\"showchat/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_FILE = showchat/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
